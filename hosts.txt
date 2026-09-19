@@ -1,0 +1,7 @@
+# hosts.txt - list of servers for scan_all.py to scan
+# Format: host,user,key_path,port(optional)
+# Replace with your own server details before running scan_all.py
+#
+# Example:
+# 18.232.136.69,ubuntu,security-audit-key.pem
+# 10.0.0.12,ubuntu,~/.ssh/other-key.pem,22

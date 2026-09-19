@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Sensitive files - NEVER commit these
+*.pem
+*.key
+security-audit-key.pem
+
+# Scan outputs (personal data, don't need to share)
+reports/*.json
+backups/*.bak
+
+# OS files
+.DS_Store
