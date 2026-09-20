@@ -48,6 +48,14 @@ linux-hardening-platform/
 └── requirements.txt
 ```
 
+## Screenshots
+
+![Project Screenshot](screenshot/1.png)
+![Project Screenshot](screenshot/2.png)
+![Project Screenshot](screenshot/3.png)
+![Project Screenshot](screenshot/4.png)
+![Project Screenshot](screenshot/5.png)
+
 ## Setup
 
 ```bash
