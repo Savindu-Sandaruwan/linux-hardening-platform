@@ -50,11 +50,11 @@ linux-hardening-platform/
 
 ## Screenshots
 
-![Project Screenshot](screenshot/1.png)
-![Project Screenshot](screenshot/2.png)
-![Project Screenshot](screenshot/3.png)
-![Project Screenshot](screenshot/4.png)
-![Project Screenshot](screenshot/5.png)
+![Project Screenshot](screenshot/01.png)
+![Project Screenshot](screenshot/02.png)
+![Project Screenshot](screenshot/03.png)
+![Project Screenshot](screenshot/04.png)
+![Project Screenshot](screenshot/05.png)
 
 ## Setup
 
